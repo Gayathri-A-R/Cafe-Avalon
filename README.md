@@ -1,8 +1,8 @@
 # Cafe-Avalon
 A Bootstrap Test Project
 
-This Site built for learning and practise puroses;
-It has no commercial intension;
+This Site is built for learning and practise puroses;
+It doen't has commercial intensions;
 
 Credits:
 Frame work : Bootstrap 3.3.6
